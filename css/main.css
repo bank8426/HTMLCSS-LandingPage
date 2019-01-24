@@ -143,7 +143,7 @@ section{
   max-width: 100%;
 }
 
-.hero{
+.hero {
   background-image:url('/img/hero.jpg');
   height: 400px;
   background-size: cover;
@@ -152,20 +152,17 @@ section{
   position: relative;
 }
 
-.hero h1{
-  position: absolute;
+.hero div h1{
   left: -30px;
 }
 
-.hero h2{
-  position: absolute;
+.hero div h2{
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
 }
 
 .hero p{
-  position: absolute;
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
