@@ -34,28 +34,18 @@ section{
 
 .btn{
   cursor: pointer;
-  border: none;
+  border: 0;
   padding: 6px 12px;
   border-radius: 3px;
   line-height: 1.4
 }
 
 .btn-default{
-  cursor: pointer;
-  border: 0px;
-  padding: 6px 12px;
-  border-radius: 3px;
-  line-height: 1.4;
   color: white;
   background-color: #faa541;
 }
 
 .btn-primary{
-  cursor: pointer;
-  border: none;
-  padding: 6px 12px;
-  border-radius: 3px;
-  line-height: 1.4;
   color: white;
   background-color: #364147;
 }
