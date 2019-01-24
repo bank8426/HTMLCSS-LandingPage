@@ -78,12 +78,12 @@ section{
 .brand {
   width: 170px;
   height: 85px;
-  margin-left: 15px;
+  margin-left: -15px;
   margin-right: 60px;
 }
 
 .logo {
-  max-width: 100%
+  max-width: 100%;
   height: auto;
   margin-left: 15px;
   margin-right: 60px;
@@ -93,7 +93,7 @@ section{
   width: 330px;
   height: 30px;
   padding: 6px 12px;
-  border: 1px #a0a0a0;
+  border: 1px solid #a0a0a0;
 }
 
 .search-button{
@@ -112,7 +112,7 @@ section{
 }
 
 .nav-list li a{
-  font-size: : 16px;
+  font-size: 16px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.2px;
